@@ -5,6 +5,7 @@ This python program contains 18 katas problems using python 2.7 and for/while lo
 author: bs
 """
 
+
 def main():
     print('Reached the main')
 
@@ -142,4 +143,4 @@ for num in sampleArray:
 print(largest)
 
 if __name__ == '__main__':
-    main() 
+    main()
